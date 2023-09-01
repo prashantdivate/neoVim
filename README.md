@@ -10,7 +10,7 @@ curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
 
 ## Step-2: Download configuration file
 ```
-wget https://github.com/prashantdivate/neoVim/blob/master/init.vim
+wget https://raw.githubusercontent.com/prashantdivate/neoVim/master/init.vim
 ```
 
 ## Step-3: Copy configuration file
